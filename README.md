@@ -1,9 +1,6 @@
 # The-Machine-Learning-Guide
 Organized content for the independent learner
 
-# Machine-Learning-Guide
-Organized content for the independent learner
-
 ## Open Courseware:
 
 ### Mathematical Foundations:
