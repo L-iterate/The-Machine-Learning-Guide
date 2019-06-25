@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVun
 Spring 2017: Statistical Machine Learning (10-702/36-702)
 https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv
 
-### Job Boards, Community, News Aggregators:
+## Job Boards, Community, News Aggregators:
 
 Kaggle:  
 https://www.kaggle.com/
@@ -74,7 +74,7 @@ https://news.ycombinator.com/
 Glass Door:  
 https://www.glassdoor.com/index.htm
 
-### Implementation and Tutorials:
+## Implementation and Tutorials:
 
 Tensor Flow Playground:  
 http://playground.tensorflow.org
