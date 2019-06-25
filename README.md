@@ -19,6 +19,8 @@ Harvard Statistics 110: Probability:
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 #### Deep Learning:
+
+#### Legacy Content (Circa 2016)
 Andrew Ng Coursera (A good place to start):  
 https://www.coursera.org/learn/machine-learning
 
@@ -48,6 +50,15 @@ http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learni
 18.465 Spring 2007:  
 http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/
 
+#### The Carnegie Mellon Machine Learning PhD Core Curriculum
+Machine Learning CMU Fall 2015 10-715
+https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ
+Fall 2016: Convex Optimization (10-725/36-725)
+https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC
+cmu 36-705 (Intermediate Statistics)
+https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVunWE6
+Spring 2017: Statistical Machine Learning (10-702/36-702)
+https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv
 
 ### Job Boards, Community, News Aggregators:
 
@@ -86,9 +97,19 @@ Blog: http://karpathy.github.io/
 
 A Hacker's Guide to Neural Networks: http://karpathy.github.io/neuralnets/
 
+## Breaking into Research
+
 ### Some Notable Names in Research:
 https://www.quora.com/Who-are-some-notable-machine-learning-researchers
 
 ### Papers with Code:
 https://paperswithcode.com/
 
+### DeepMind
+https://deepmind.com
+
+### OpenAI
+https://openai.com/
+
+### Arxiv
+https://arxiv.org/list/cs.LG/recent
