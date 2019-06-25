@@ -22,14 +22,14 @@ https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95
 Harvard Statistics 110: Probability:  
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
-#### Deep Learning:
+#### Deep Learning
 CS224N: Natural Language Processing with Deep Learning | Winter 2019:
 https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 Stanford University CS231n, Spring 2017:
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
-#### Legacy Content (Circa 2016):
+#### Legacy Content (Circa 2016)
 Andrew Ng Coursera (A good place to start):  
 https://www.coursera.org/learn/machine-learning
 
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVun
 Spring 2017: Statistical Machine Learning (10-702/36-702):
 https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv
 
-## Job Boards, Community, News Aggregators:
+## Job Boards, Community, News Aggregators
 
 Kaggle:  
 https://www.kaggle.com/
@@ -86,7 +86,7 @@ https://news.ycombinator.com/
 Glass Door:  
 https://www.glassdoor.com/index.htm
 
-## Implementation and Tutorials:
+## Implementation and Tutorials
 
 Tensor Flow Playground:  
 http://playground.tensorflow.org
@@ -102,7 +102,7 @@ Deep Learning:
 Theano:  
 http://deeplearning.net/tutorial/
 
-### Blogs and Blog Posts:
+### Blogs and Blog Posts
 
 Andrej Karpathy:  
 Blog: http://karpathy.github.io/
@@ -111,10 +111,10 @@ A Hacker's Guide to Neural Networks: http://karpathy.github.io/neuralnets/
 
 ## Breaking into Research
 
-### Some Notable Names in Research:
+### Some Notable Names in Research
 https://www.quora.com/Who-are-some-notable-machine-learning-researchers
 
-### Papers with Code:
+### Papers with Code
 https://paperswithcode.com/
 
 ### DeepMind
