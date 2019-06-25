@@ -89,3 +89,6 @@ A Hacker's Guide to Neural Networks: http://karpathy.github.io/neuralnets/
 ### Some Notable Names in Research:
 https://www.quora.com/Who-are-some-notable-machine-learning-researchers
 
+### Papers with Code:
+https://paperswithcode.com/
+
