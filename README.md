@@ -19,9 +19,9 @@ Harvard Statistics 110: Probability:
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 #### Deep Learning:
-CS224N: Natural Language Processing with Deep Learning | Winter 2019
+CS224N: Natural Language Processing with Deep Learning | Winter 2019:
 https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-Stanford University CS231n, Spring 2017
+Stanford University CS231n, Spring 2017:
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
 #### Legacy Content (Circa 2016):
@@ -31,7 +31,7 @@ https://www.coursera.org/learn/machine-learning
 Originally taught as CS229 on Youtube by Andrw Ng:  
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 
-Nando de Freitas Oxford Lectures on Deep Learning (Introductory)  
+Nando de Freitas Oxford Lectures on Deep Learning (Introductory):  
 https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 
 #### Neural Networks by Geoffrey Hinton (Formerly Coursera)
@@ -55,13 +55,13 @@ http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learni
 http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/
 
 #### The Carnegie Mellon Machine Learning PhD Core Curriculum
-Machine Learning CMU Fall 2015 10-715
+Machine Learning CMU Fall 2015 10-715:
 https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ
-Fall 2016: Convex Optimization (10-725/36-725)
+Fall 2016: Convex Optimization (10-725/36-725):
 https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC
-cmu 36-705 (Intermediate Statistics)
+cmu 36-705 (Intermediate Statistics):
 https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVunWE6
-Spring 2017: Statistical Machine Learning (10-702/36-702)
+Spring 2017: Statistical Machine Learning (10-702/36-702):
 https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv
 
 ## Job Boards, Community, News Aggregators:
