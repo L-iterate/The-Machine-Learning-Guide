@@ -7,20 +7,25 @@ Organized content for the independent learner
 #### Linear Algebra
 Kahn Academy Linear Algebra Lectures:  
 https://www.khanacademy.org/math/linear-algebra
+
 MIT OCW 18.06 with Gilbert Strang (Linear Algebra):  
 https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D
+
 #### Probability and Statistics
 Kahn Academy High School Statistics:  
 https://www.khanacademy.org/math/probability#table-of-contents
+
 MIT OCW 6.041 Probability and Statistics:  
 https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc
 https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe
+
 Harvard Statistics 110: Probability:  
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 #### Deep Learning:
 CS224N: Natural Language Processing with Deep Learning | Winter 2019:
 https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
 Stanford University CS231n, Spring 2017:
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
@@ -57,10 +62,13 @@ http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-l
 #### The Carnegie Mellon Machine Learning PhD Core Curriculum
 Machine Learning CMU Fall 2015 10-715:
 https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ
+
 Fall 2016: Convex Optimization (10-725/36-725):
 https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC
+
 cmu 36-705 (Intermediate Statistics):
 https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVunWE6
+
 Spring 2017: Statistical Machine Learning (10-702/36-702):
 https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv
 
