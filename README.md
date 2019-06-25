@@ -19,8 +19,12 @@ Harvard Statistics 110: Probability:
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 #### Deep Learning:
+CS224N: Natural Language Processing with Deep Learning | Winter 2019
+https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+Stanford University CS231n, Spring 2017
+https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
-#### Legacy Content (Circa 2016)
+#### Legacy Content (Circa 2016):
 Andrew Ng Coursera (A good place to start):  
 https://www.coursera.org/learn/machine-learning
 
